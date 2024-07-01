@@ -21,6 +21,7 @@ def load_mnist_data(fname):
 
 
 def test_load_data():
+    # необходимо исправить и указать точный путь к файлу с данными
     path = "../data/MNIST_dataset/mnist_train_100.csv"
     X,Y = load_mnist_data(path)
     ind = random.randint(0,X.shape[0])
