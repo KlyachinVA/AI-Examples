@@ -8,4 +8,4 @@
 ![Изображение](https://github.com/KlyachinVA/AI-Examples/blob/main/ml/gmm/images/TrueDistrib.png)
 
 Изображение аппроксимирующего изобраения:
-![Изображение]
+![Изображение](https://github.com/KlyachinVA/AI-Examples/blob/main/ml/gmm/images/ApproxDistrib.png)
