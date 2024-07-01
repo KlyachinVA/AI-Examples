@@ -5,7 +5,7 @@
 смеси гауссовских распределений (GMM - Gaussian Mixture Model)
 
 Изображение исходного распределения:
-![Изображение](https://disk.yandex.ru/i/wyOnAia9fTRmyQ)
+![Изображение]([https://disk.yandex.ru/i/wyOnAia9fTRmyQ](https://github.com/KlyachinVA/AI-Examples/blob/main/ml/gmm/images/TrueDistrib.png))
 
 Изображение аппроксимирующего изобраения:
 ![Изображение]
